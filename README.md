@@ -1,19 +1,3 @@
-# ML-DataScience
-Data Science &amp; ML concepts applied to various datasets
-
-IDE - Spyder/Jupyter Notebook/Google Colab 
-
-Have successfully executed ->
-
-**1. Collection of Data (Web Scraping)**
-
-**2. Cleaning data**
-
-**3. Predictive modeling**
-
-**4. Data visualization & represented KPIs(Key Performance Indicators)**
-
-
 # Project Title
 **Data Science concepts applied to datasets**<!-- Add banner here -->
 <!-- The project title should be self explanotory and try not to make it a mouthful. (Although exceptions exist- **awesome-readme-writing-guide-for-open-source-projects** - would have been a cool name)
@@ -54,8 +38,7 @@ I use [**Shields IO**](https://shields.io/) for making badges. It is a simple an
 
 # Objective
 
-IDE - Spyder/Jupyter Notebook/Google Colab 
-Have successfully executed ->
+IDE - Spyder/Jupyter Notebook/Google Colab. Have successfully executed ->
 
 - _Collection of Data (Web Scraping)_
 
