@@ -54,6 +54,16 @@ I use [**Shields IO**](https://shields.io/) for making badges. It is a simple an
 
 # Objective
 
+IDE - Spyder/Jupyter Notebook/Google Colab 
+Have successfully executed ->
+
+- _Collection of Data (Web Scraping)_
+
+- _Cleaning data_
+
+- _Predictive modeling_
+
+- _Data visualization & represented KPIs(Key Performance Indicators)_
 
 # Table of contents
 
